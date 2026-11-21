@@ -1,0 +1,11 @@
+[user]
+	name = Andres Angarita
+	email = angaritaoa@gmail.com
+[core]
+	editor = vim
+[color]
+	ui = true
+[github]
+	user = angaritaoa
+[init]
+	defaultBranch = main
